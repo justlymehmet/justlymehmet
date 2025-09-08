@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Quickly AI](https://quickly.rf.gd)
 
-- 📝 I regularly write articles on [soon](soon)
+- 📝 I regularly write articles on [SOON](#)
 
 - 📫 How to reach me **justlymehmet@gmail.com**
 
