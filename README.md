@@ -1,4 +1,4 @@
-[MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg](https://tse3.mm.bing.net/th/id/OIP.PLSU0l4tcOuxmhmTRuxzqwHaCV?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3)
+[![MasterHead](https://tse3.mm.bing.net/th/id/OIP.PLSU0l4tcOuxmhmTRuxzqwHaCV?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3)
 
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
