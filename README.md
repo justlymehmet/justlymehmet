@@ -9,9 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justlymehmet&label=Profile%20views&color=0e75b6&style=flat" alt="justlymehmet" /> </p>
 
-- 🔭 I’m currently working on [Quickly AI](https://quickly.rf.gd)
-
-- 📝 I regularly write articles on [SOON](#)
+- 🔭 I’m currently working on [PIKSEL](https://www.piksel.me)
 
 - 📫 How to reach me **justlymehmet@gmail.com**
 
